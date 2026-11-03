@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ilan-lab.github.io/theramaster-guide/sitemap.xml
